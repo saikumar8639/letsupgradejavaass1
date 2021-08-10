@@ -1,0 +1,3 @@
+--> Compiler translates entire program at a time ,whereas interpreter translates the program in line by line
+--> Compiler requires lot of main memory, whereas interpreter requires less main memory.
+--> Compiler takes less time to execution, whereas interpreter takes more to execution.
